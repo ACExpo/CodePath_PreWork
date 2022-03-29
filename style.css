@@ -33,41 +33,33 @@ button {
 /*small bottons*/
 
 
-#gameButtonArea > button {
-  width:130px;
-  height:130px;
-  margin:2px;
-}
+#gameButtonArea > 
+button {
+  width:110px;
+  height:110px;
+  margin:1px;}
 
 /* color of the big bottons*/
 /*1*/
-#button1 {
-  background: lightgreen;
-}
-#button1:active, #button1.lit {
-  background: green;
-}
+#button1{background: lightgreen;} 
+#button1:active, #button1.lit{background: green;}
+
 /*2*/
-#button2 {
-  background: #96e8ff;
-}
-#button2:active, #button2.lit {
-  background: blue;
-}
+#button2{background: #96e8ff;}
+#button2:active, #button2.lit{background: blue;}
+
 /*3*/
-#button3 {
-  background: #fca7d0;
-}
-#button1:active, #button3.lit {
-  background: red;
-}
+#button3{background: #fca7d0;}
+#button3:active, #button3.lit{background: red;}
+
 /*4*/
-#button4 {
-  background: #fffca8;
-}
-#button1:active, #button4.lit {
-  background: yellow;
-}
+#button4{background: #fffca8;}
+#button4:active, #button4.lit{background: yellow;}
+
+/*5*/
+#button5{background: #E290FF;}
+#button5:active, #button5.lit{background: #B51EEA;}
+
 
 .hidden {
   display: none;
