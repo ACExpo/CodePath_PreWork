@@ -58,10 +58,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 
 
-## Interview Recording URL Link
-
-(https://drive.google.com/drive/folders/1Vq10-kyEZ2h1WKhGZyUgNrjnZnOXyH2L?usp=sharing)
-
 
 ## License
 
